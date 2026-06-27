@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain-ollama
+crewai
+python-dotenv
+pydantic
+requests

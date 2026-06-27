@@ -1,0 +1,16 @@
+[project]
+name = "focal-agent-lab"
+version = "0.1.0"
+description = "Research and prototyping environment for agentic AI."
+readme = "README.md"
+requires-python = ">=3.12,<3.14"
+
+dependencies = [
+    "langchain",
+    "langgraph",
+    "langchain-ollama",
+    "crewai",
+    "python-dotenv",
+    "pydantic",
+    "requests",
+]
