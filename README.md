@@ -1,5 +1,10 @@
 # Focal Agent Lab
 
+[![CI](https://github.com/sjweiler/focal-agent-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/sjweiler/focal-agent-lab/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/sjweiler/focal-agent-lab/actions/workflows/codeql.yml/badge.svg)](https://github.com/sjweiler/focal-agent-lab/actions/workflows/codeql.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.12%20%7C%203.13-blue.svg)](pyproject.toml)
+
 Experimental AI agent framework for FocalDesk.
 
 ## Overview
