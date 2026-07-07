@@ -14,6 +14,8 @@ FocalDesk through its IPC interface.
 
 - Evaluate LangChain
 - Evaluate LangGraph
+- Evaluate LLamaIndex
+- Evaluate LangSmith
 - Evaluate CrewAI
 - Experiment with local and cloud LLMs
 - Prototype tool calling
